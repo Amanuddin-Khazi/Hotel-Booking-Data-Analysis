@@ -12,11 +12,11 @@ Microsoft Excel was used to explore booking patterns, compare hotel performance,
 
 ### Overall Dashboard
 
-![Hotel Booking Dashboard](Screenshots/dashboard-overview.png)
+![Hotel Booking Dashboard](dashboard-overview.png)
 
 ### PivotTable Analysis
 
-![PivotTable Analysis](Screenshots/pivot-table-analysis.png)
+![PivotTable Analysis](pivot-table-analysis.png)
 
 ## Interactive Dashboard – Year-wise Analysis
 
@@ -24,15 +24,15 @@ The dashboard includes an arrival-year slicer to explore booking and cancellatio
 
 ### 2015 Analysis
 
-![2015 Dashboard](Screenshots/dashboard-2015.png)
+![2015 Dashboard](dashboard-2015.png)
 
 ### 2016 Analysis
 
-![2016 Dashboard](Screenshots/dashboard-2016.png)
+![2016 Dashboard](dashboard-2016.png)
 
 ### 2017 Analysis
 
-![2017 Dashboard](Screenshots/dashboard-2017.png)
+![2017 Dashboard](dashboard-2017.png)
 
 ## Key Analysis Areas
 
